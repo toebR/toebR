@@ -1,9 +1,10 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?toebR)
 
 <!--
 **toebR/toebR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?toebR)
+
 
 Here are some ideas to get you started:
 
