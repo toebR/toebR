@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a geographer and datanalyst from Switzerland. I mainly work with the R programming language, creating plots, data analyses and writting simple R packages. Check out my repositories if you like :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toebR&show_icons=true&theme=dracula)
 <!--
